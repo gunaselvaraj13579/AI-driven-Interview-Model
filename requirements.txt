@@ -1,0 +1,6 @@
+fastapi
+sqlalchemy
+python-dotenv
+openai
+livekit-agents
+cartesia
